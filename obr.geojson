@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4345703125,
+          44.74673324024678
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Drop",
+          "showLabel": true
+        },
+        "name": "Belgrade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.103515625,
+          44.43377984606822
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Drop",
+          "showLabel": true
+        },
+        "name": "Bucharest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9599609375,
+          41.03378713521864
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Drop",
+          "showLabel": true
+        },
+        "name": "Istanbul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.557617187499998,
+          48.12943437745315
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Drop",
+          "showLabel": true
+        },
+        "name": "München"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5201416015625,
+          29.628383768734807
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Drop",
+          "showLabel": true
+        },
+        "name": "Shiraz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2744140625,
+          38.09998264736481
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Drop",
+          "showLabel": true
+        },
+        "name": "Tabriz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.40228271484375,
+          35.708607653285505
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Drop",
+          "showLabel": true
+        },
+        "name": "Teheran"
+      }
+    }
+  ]
+}
